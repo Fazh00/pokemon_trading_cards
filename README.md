@@ -24,4 +24,9 @@ This project leverages the following technologies:
 - **Pandas & NumPy** (for Data Analysis) 
 - **NLTK & TextBlob** (for Sentiment Analysis) 
 - **Scikit-learn** (for modeling) 
-- **Jupyter Notebook** (for research & visualization) 
+- **Jupyter Notebook** (for research & visualization)
+
+## Contributors
+- [Fabio Mascia](https://github.com/Fazh00)  
+- [Matteo Ghisu](https://github.com/mattghisu99)  
+
